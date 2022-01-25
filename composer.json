@@ -1,5 +1,8 @@
 {
 	"name": "jeroen/psr-log-test-doubles",
+	"replace": {
+		"wmde/psr-log-test-doubles": "*"
+	},
 	"description": "Test Doubles for the PSR-3 Logger Interface",
 	"homepage": "https://github.com/JeroenDeDauw/PsrLogTestDoubles",
 	"license": "GPL-2.0-or-later",
