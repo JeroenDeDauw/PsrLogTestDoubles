@@ -59,7 +59,7 @@ $this->assertSame( LogLevel::ERROR, $firstLogCall->getLevel() );
 
 ## Release notes
 
-### 3.0.0
+### 3.0.0 (2022-01-26)
 
 * Added support for `psr/log` 2.x and 3.x
 * `LoggerSpy` only supports `psr/log` 2.x and 3.x. Added `LegacyLoggerSpy` for `psr/log` 1.x
