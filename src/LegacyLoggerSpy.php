@@ -9,6 +9,7 @@ use Psr\Log\AbstractLogger;
 /**
  * For psr/log 1.x
  * @since 3.0
+ * @codeCoverageIgnore
  *
  * @licence GNU GPL v2+
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >
