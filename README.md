@@ -1,6 +1,6 @@
 # PSR Log Test Doubles
 
-[![Build Status](https://secure.travis-ci.org/JeroenDeDauw/PsrLogTestDoubles.png?branch=master)](http://travis-ci.org/JeroenDeDauw/PsrLogTestDoubles)
+[![Build Status](https://img.shields.io/github/workflow/status/JeroenDeDauw/PsrLogTestDoubles/CI)](https://github.com/JeroenDeDauw/PsrLogTestDoubles/actions?query=workflow%3ACI)
 [![Type Coverage](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles/coverage.svg)](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles)
 [![codecov](https://codecov.io/gh/JeroenDeDauw/PsrLogTestDoubles/branch/master/graph/badge.svg?token=GnOG3FF16Z)](https://codecov.io/gh/JeroenDeDauw/PsrLogTestDoubles)
 [![Latest Stable Version](https://poser.pugx.org/jeroen/psr-log-test-doubles/version.png)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
