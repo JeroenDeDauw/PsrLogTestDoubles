@@ -7,41 +7,32 @@ namespace WMDE\PsrLogTestDoubles;
 use Psr\Log\AbstractLogger;
 
 /**
- * For psr/log 2.x and 3.x.
+ * For psr/log 1.x
+ * @since 3.0
  *
  * @licence GNU GPL v2+
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >
  */
-class LoggerSpy extends AbstractLogger {
+class LegacyLoggerSpy extends AbstractLogger {
 
 	/**
 	 * @var array<int, LogCall>
 	 */
 	private array $logCalls = [];
 
-	/**
-	 * Signature changed in 3.0
-	 */
-	public function log( $level, string|\Stringable $message, array $context = [] ): void {
+	public function log( $level, $message, array $context = [] ): void {
 		$this->logCalls[] = new LogCall( $level, (string)$message, $context );
 	}
 
-	/**
-	 * @since 2.0
-	 */
 	public function getLogCalls(): LogCalls {
 		return new LogCalls( ...$this->logCalls );
 	}
 
-	/**
-	 * @since 2.2
-	 */
 	public function getFirstLogCall(): ?LogCall {
 		return $this->getLogCalls()->getFirstCall();
 	}
 
 	/**
-	 * @since 1.1
 	 * @throws AssertionException
 	 */
 	public function assertNoLoggingCallsWhereMade(): void {

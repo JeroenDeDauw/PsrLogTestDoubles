@@ -62,6 +62,7 @@ $this->assertSame( LogLevel::ERROR, $firstLogCall->getLevel() );
 ### 3.0.0
 
 * Added support for `psr/log` 2.x and 3.x
+* `LoggerSpy` only supports `psr/log` 2.x and 3.x. Added `LegacyLoggerSpy` for `psr/log` 1.x
 * Changed minimum PHP version from PHP 7.1 to 8.0
 * Added several property, parameter and return types
 * Added Psalm and PHPStan CI and compliance with level 1 checks
