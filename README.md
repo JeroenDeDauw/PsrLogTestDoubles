@@ -1,10 +1,10 @@
 # PSR Log Test Doubles
 
-[![Build Status](https://secure.travis-ci.org/wmde/PsrLogTestDoubles.png?branch=master)](http://travis-ci.org/wmde/PsrLogTestDoubles)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/wmde/PsrLogTestDoubles/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/wmde/PsrLogTestDoubles/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/wmde/PsrLogTestDoubles/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/wmde/PsrLogTestDoubles/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/wmde/psr-log-test-doubles/version.png)](https://packagist.org/packages/wmde/psr-log-test-doubles)
-[![Download count](https://poser.pugx.org/wmde/psr-log-test-doubles/d/total.png)](https://packagist.org/packages/wmde/psr-log-test-doubles)
+[![Build Status](https://secure.travis-ci.org/JeroenDeDauw/PsrLogTestDoubles.png?branch=master)](http://travis-ci.org/JeroenDeDauw/PsrLogTestDoubles)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JeroenDeDauw/PsrLogTestDoubles/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JeroenDeDauw/PsrLogTestDoubles/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/JeroenDeDauw/PsrLogTestDoubles/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/JeroenDeDauw/PsrLogTestDoubles/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/jeroen/psr-log-test-doubles/version.png)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
+[![Download count](https://poser.pugx.org/jeroen/psr-log-test-doubles/d/total.png)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
 
 [Test Doubles][doubles] for the [PSR-3 Logger Interface][psr-3]
 
