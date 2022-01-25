@@ -1,8 +1,8 @@
 # PSR Log Test Doubles
 
 [![Build Status](https://secure.travis-ci.org/JeroenDeDauw/PsrLogTestDoubles.png?branch=master)](http://travis-ci.org/JeroenDeDauw/PsrLogTestDoubles)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JeroenDeDauw/PsrLogTestDoubles/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JeroenDeDauw/PsrLogTestDoubles/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/JeroenDeDauw/PsrLogTestDoubles/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/JeroenDeDauw/PsrLogTestDoubles/?branch=master)
+[![Type Coverage](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles/coverage.svg)](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles)
+[![codecov](https://codecov.io/gh/JeroenDeDauw/PsrLogTestDoubles/branch/master/graph/badge.svg?token=GnOG3FF16Z)](https://codecov.io/gh/JeroenDeDauw/PsrLogTestDoubles)
 [![Latest Stable Version](https://poser.pugx.org/jeroen/psr-log-test-doubles/version.png)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
 [![Download count](https://poser.pugx.org/jeroen/psr-log-test-doubles/d/total.png)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
 
