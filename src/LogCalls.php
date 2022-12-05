@@ -4,17 +4,19 @@ declare( strict_types = 1 );
 
 namespace WMDE\PsrLogTestDoubles;
 
-use Psr\Log\LogLevel;
+use IteratorAggregate;
 
 /**
  * Immutable and ordered collection of LogCall objects
+ *
+ * @template-implements IteratorAggregate<LogCall>
  *
  * @since 2.0
  *
  * @licence GNU GPL v2+
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >
  */
-class LogCalls implements \IteratorAggregate, \Countable {
+class LogCalls implements IteratorAggregate, \Countable {
 
 	/**
 	 * @var LogCall[]
