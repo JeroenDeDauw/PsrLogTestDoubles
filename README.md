@@ -1,6 +1,6 @@
 # PSR Log Test Doubles
 
-[![Build Status](https://img.shields.io/github/workflow/status/JeroenDeDauw/PsrLogTestDoubles/CI)](https://github.com/JeroenDeDauw/PsrLogTestDoubles/actions?query=workflow%3ACI)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/JeroenDeDauw/PsrLogTestDoubles/ci.yml?branch=master)](https://github.com/JeroenDeDauw/PsrLogTestDoubles/actions?query=workflow%3ACI)
 [![Type Coverage](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles/coverage.svg)](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles)
 [![Psalm level](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles/level.svg)](psalm.xml)
 [![codecov](https://codecov.io/gh/JeroenDeDauw/PsrLogTestDoubles/branch/master/graph/badge.svg?token=GnOG3FF16Z)](https://codecov.io/gh/JeroenDeDauw/PsrLogTestDoubles)
