@@ -9,6 +9,8 @@
 
 [Test Doubles][doubles] for the [PSR-3 Logger Interface][psr-3]
 
+Composer/Packagist: [`jeroen/psr-log-test-doubles`](https://packagist.org/packages/jeroen/psr-log-test-doubles)
+
 ## Motivation
 
 In PHP world, most people create Test Doubles via PHPUnits mocking framework (`$this->createMock`).
