@@ -4,8 +4,8 @@
 [![Type Coverage](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles/coverage.svg)](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles)
 [![Psalm level](https://shepherd.dev/github/JeroenDeDauw/PsrLogTestDoubles/level.svg)](psalm.xml)
 [![codecov](https://codecov.io/gh/JeroenDeDauw/PsrLogTestDoubles/branch/master/graph/badge.svg?token=GnOG3FF16Z)](https://codecov.io/gh/JeroenDeDauw/PsrLogTestDoubles)
-[![Latest Stable Version](https://poser.pugx.org/jeroen/psr-log-test-doubles/version.png)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
-[![Download count](https://poser.pugx.org/jeroen/psr-log-test-doubles/d/total.png)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
+[![Latest Stable Version](https://poser.pugx.org/jeroen/psr-log-test-doubles/v/stable)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
+[![Download count](https://poser.pugx.org/jeroen/psr-log-test-doubles/downloads)](https://packagist.org/packages/jeroen/psr-log-test-doubles)
 
 [Test Doubles][doubles] for the [PSR-3 Logger Interface][psr-3]
 
